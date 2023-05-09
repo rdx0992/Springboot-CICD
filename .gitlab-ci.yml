@@ -41,3 +41,4 @@ code-quality-job:
 #    - docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
 #    - docker tag gitlab-cicd-demo:latest $DOCKER_USERNAME/gitlab-cicd-demo:latest
 #    - docker push $DOCKER_USERNAME/gitlab-cicd-demo:latest
+#    - need to update files as per specification
